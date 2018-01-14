@@ -4,13 +4,32 @@
             "outputFile": "/Users/shailshah/Documents/Android/Projects/TeaTime_Udacity/TeaBucks/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4f44664ad8af6c86735243048a952edb/res/values-land/values-land.xml",
+                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9dcbfee83335ec13085cb93a0b66af56/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
                         "startOffsets": "55,125,189,260",
                         "endColumns": "69,63,70,67",
                         "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/0bfa2f865ba06273de9268f03d58d091/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
                     }
                 }
             ]

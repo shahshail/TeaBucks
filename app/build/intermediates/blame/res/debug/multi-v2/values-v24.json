@@ -4,24 +4,7 @@
             "outputFile": "/Users/shailshah/Documents/Android/Projects/TeaTime_Udacity/TeaBucks/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/898e17f826eede7cda78cde1c7f22ac8/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,121,182,248",
-                        "endColumns": "65,60,65,66",
-                        "endOffsets": "116,177,243,310"
-                    },
-                    "to": {
-                        "startLines": "8,9,10,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "619,685,746,812",
-                        "endColumns": "65,60,65,66",
-                        "endOffsets": "680,741,807,874"
-                    }
-                },
-                {
-                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4f44664ad8af6c86735243048a952edb/res/values-v24/values-v24.xml",
+                    "source": "/Users/shailshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/9dcbfee83335ec13085cb93a0b66af56/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

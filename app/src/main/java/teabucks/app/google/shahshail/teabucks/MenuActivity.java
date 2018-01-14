@@ -19,7 +19,7 @@ public class MenuActivity extends AppCompatActivity implements ImageDownloader.D
 
     Intent mTeaIntent;
 
-    public final static String EXTRA_TEA_NAME = "com.example.android.teatime.EXTRA_TEA_NAME";
+    public final static String EXTRA_TEA_NAME = "teabucks.app.google.shahshail.teabucks.EXTRA_TEA_NAME";
 
     // The Idling Resource which will be null in production.
     @Nullable
