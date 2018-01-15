@@ -35,10 +35,20 @@
 
 ![atp txt](https://github.com/shahshail/TeaBucks/blob/master/test_4.png)
 
+## Espresso Test Results
+
+### Result 1 (Intent Test and AdapterView Test)
+![atp txt](https://github.com/shahshail/TeaBucks/blob/master/test1.png)
+
+![atp txt](https://github.com/shahshail/TeaBucks/blob/master/test3.png)
+
+### Result 2 (Idling Resources Test)
+![atp txt](https://github.com/shahshail/TeaBucks/blob/master/test4.png)
+
 ## Screens
 
 #### Home Screen
-![atp txt](https://github.com/shahshail/TeaBucks/blob/master/home.png)
+![atp txt](https://github.com/shahshail/TeaBucks/blob/master/test4.png)
 
 #### Order Screen
 ![atp txt](https://github.com/shahshail/TeaBucks/blob/master/order.png)
