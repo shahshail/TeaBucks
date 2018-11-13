@@ -2,7 +2,6 @@
 - This is simple online Tea order mock app.(Purpose for perform Espresso Test).
 - User can select their favorite tea from different Teas.
 - The user can also customize their tea using spinners and edit texts.
-- Finally user can review their order and share their order via Email.
 
 ## Espresso Test
 - Exspresso can help us to test variety of test components (e.g. Views, Intents, AdapterViews and Idling Resources).
